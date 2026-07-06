@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-27)
+## Unreleased (2026-07-06)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`3ceff10`](https://github.com/stdlib-js/stdlib/commit/3ceff1079fa63d0c89b3229333670e030d1209e5) - **refactor:** avoid unnecessary assignment _(by Athan Reines)_
 -   [`06cfc24`](https://github.com/stdlib-js/stdlib/commit/06cfc24f6e476f83649e6e35cacfee6b1a525a66) - **bench:** refactor to use string interpolation in `blas/ext/base` [(#11377)](https://github.com/stdlib-js/stdlib/pull/11377) _(by Karan Anand)_
 -   [`f9d1409`](https://github.com/stdlib-js/stdlib/commit/f9d140985e169d34f4e66bd770dc675ea28588a3) - **docs:** add missing JSDoc comment _(by Athan Reines)_
 -   [`500788a`](https://github.com/stdlib-js/stdlib/commit/500788a9423352a0e8fd50b7eda644ff8e79c8b9) - **test:** use relative paths _(by Philipp Burckhardt)_
